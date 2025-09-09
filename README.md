@@ -90,13 +90,6 @@ Less harsh than pure complementary, using the base color with two colors adjacen
 
 
 
-### Browser Support
-- ✅ Chrome 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
-
 ### File Structure
 ```
 Color-Pallet-Generator/
@@ -145,9 +138,6 @@ Contributions are welcome! Here's how you can help:
 - Add color name suggestions
 - Implement color contrast ratio checking
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
